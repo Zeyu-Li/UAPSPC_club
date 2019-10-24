@@ -14,3 +14,7 @@ The code is free to use (MIT Licence)
 
  * test- test files
  * cpp_boilerplate - boilerplate for cpp files
+
+## Notes
+
+There repo for code snippets is [here](https://github.com/UAPSPC)
