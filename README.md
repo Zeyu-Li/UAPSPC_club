@@ -2,7 +2,6 @@
 # Competitive Computation Club
 
 ## About
-
 -------
 Problem Solving and Programming Club is a club 
 where geeks hang out for some hard core classic computational challenges
