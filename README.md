@@ -6,15 +6,15 @@
 Problem Solving and Programming Club is a club 
 where geeks hang out for some hard core classic computational challenges
 
-Our challanges are always the thing between the keyboard and chair and no fun allowed at this club!
+Our challenges are always the thing between the keyboard and chair and no fun allowed at this club!
 
 The code is free to use (MIT Licence)
 
 ## Contains
 
- * test- test files
- * cpp_boilerplate - boilerplate for cpp files
+ * test - test files
+ * templates - c and cpp templates for quickstarts
 
 ## Notes
 
-There repo for code snippets is [here](https://github.com/UAPSPC)
+repo for code snippets is [here](https://github.com/UAPSPC)
