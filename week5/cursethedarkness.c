@@ -24,6 +24,7 @@ int main() {
                 break;
             }
         }
+        
         if (!light) {
             printf("curse the darkness\n");
         }

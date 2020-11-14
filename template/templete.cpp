@@ -1,17 +1,15 @@
-#include <cstdio>
-#include <cmath>
+#include <iostream>
 
 using namespace std;
 
-int a,b,c;
-
 int main(){
-    scanf("%d%d%d",&a,&b,&c);
-    long double v=(long double)sqrt((long double)c/(long double)a);
+    int cases;
+    scanf("%d", &cases);
 
-    long double f=(long double)a*v*v+(long double)b*v+(long double)c;
+    while (cases--) {
+        ;
+    }
+    
 
-    printf("%.10lf\n",(double)v);
-    printf("%.10lf\n",(double)(v/f));
     return 0;
 }
